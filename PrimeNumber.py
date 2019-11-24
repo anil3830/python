@@ -1,6 +1,7 @@
 n=int(input('enter any number'))
 i=1
 x=0
+
 while n!=0:
     if n<i:
         break
